@@ -1,0 +1,28 @@
+/**
+ * The main.css styles
+ */
+
+body {
+    font-size: 12px;
+    margin: 0 auto;
+    background: #ebebeb;
+    height: 100vh;
+}
+
+#app {
+    height: 100%;
+    position: relative;
+}
+
+.container {
+    background: #FFF;
+}
+
+#template-wrapper {
+    padding: 2rem 0;
+}
+
+.navigation {
+    padding: 0.5rem;
+    background: #CCC;
+}
