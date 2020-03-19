@@ -6,11 +6,6 @@
 * Dexie.js (IndexedDB Library)
 * Web API: FormData
 
-
-## What you will need (optional)
-
-* Eslint extension for Visual Studio Code (https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
 ## Getting started
 1. Install all the modules by executing
 >  npm i
