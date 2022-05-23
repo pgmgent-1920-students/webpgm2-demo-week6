@@ -48,7 +48,7 @@
     "webpack-dev-server": "^3.8.1"
   },
   "dependencies": {
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "navigo": "^7.1.2",
     "nunjucks": "^3.2.1"
   }
